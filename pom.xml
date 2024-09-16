@@ -14,7 +14,7 @@
 	<name>CareMI</name>
 	<description>CareMI API</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
